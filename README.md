@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 🔭 I’m currently working as an associate software engineer<br>🌱 I’m currently learning React.Js<br>
 
 
